@@ -1,1 +1,3 @@
-# 32bit_ArithmeticLogicUnit
+# UCSB 154A Project
+
+<br /> 32 bit Arithmetic Logic Unit created using the mux and adder.
